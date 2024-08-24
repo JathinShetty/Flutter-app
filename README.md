@@ -1,16 +1,15 @@
-# personal_finance_tracker
+# Simple Finance Tracker
 
-A new Flutter project.
+A simple finance tracker app built using Flutter to help users manage their personal finances effectively. Track your income, expenses, and get an overview of your financial health with ease.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Introduction
 
-A few resources to get you started if this is your first Flutter project:
+The Simple Finance Tracker is a basic mobile application developed using Flutter, designed to help users keep track of their income and expenses. With a clean and user-friendly interface, this app makes it easy to log financial transactions and monitor spending habits.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Add Income and Expenses**: Easily log your income and expenses with a few taps.
+- **Category Management**: Organize your transactions into categories for better analysis.
+- **Transaction History**: View a list of all your past transactions.
+- **Financial Overview**: Get an overview of your current balance and spending habits.
